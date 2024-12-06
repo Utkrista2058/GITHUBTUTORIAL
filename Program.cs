@@ -1,2 +1,13 @@
-﻿ // See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, C# WORLD!");
+﻿MyMethod();
+void MyFirstMethod()
+{
+    Console.WriteLine("Now, I have a Method");
+}
+void MySecondMethod()
+{
+
+}
+void MyThirdMethod()
+{
+
+}
